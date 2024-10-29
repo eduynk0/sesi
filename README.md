@@ -1,1 +1,2 @@
-# sesi
+# Exercícios
+Exercícios passados em aula.
